@@ -58,6 +58,17 @@
         <mxCell id="YDfI053dfSupNGx4mH4m-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YDfI053dfSupNGx4mH4m-2" target="YDfI053dfSupNGx4mH4m-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YDfI053dfSupNGx4mH4m-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YDfI053dfSupNGx4mH4m-24" target="YDfI053dfSupNGx4mH4m-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YDfI053dfSupNGx4mH4m-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YDfI053dfSupNGx4mH4m-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YDfI053dfSupNGx4mH4m-24" value="" style="shape=mxgraph.cisco.switches.layer_3_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-130" width="80" height="64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
